@@ -8,6 +8,7 @@ public class SwitchPostProcess : MonoBehaviour
     public SpriteManager sm;
     public GameObject triggerPoint;
 
+
     void Update()
     {
         //Debug.Log(Vector2.Distance(this.gameObject.transform.position, triggerPoint.transform.position));
